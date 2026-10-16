@@ -20,8 +20,8 @@ A simple tracker for Apex Legends accounts and their current sale status.
 ## ✅ Sold and Paid
 
 ### `dedjysrfqc1219@hotmail.com` · Completed
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1af7ad44-63a1-4ba4-a3a3-91f5deb6d206" />
+<p align="center"><img width="600" alt="Screenshot for dedjysrfqc1219@hotmail.com" src="https://github.com/user-attachments/assets/1af7ad44-63a1-4ba4-a3a3-91f5deb6d206" /></p>
+`<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1af7ad44-63a1-4ba4-a3a3-91f5deb6d206" />`
 
 - **Status:** Sold and paid
 
