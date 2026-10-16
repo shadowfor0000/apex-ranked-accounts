@@ -21,7 +21,6 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 ### `dedjysrfqc1219@hotmail.com` · Completed
 <p align="center"><img width="600" alt="Screenshot for dedjysrfqc1219@hotmail.com" src="https://github.com/user-attachments/assets/1af7ad44-63a1-4ba4-a3a3-91f5deb6d206" /></p>
-`<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1af7ad44-63a1-4ba4-a3a3-91f5deb6d206" />`
 
 - **Status:** Sold and paid
 
@@ -31,7 +30,7 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 ### `shadowsons@outlook.com` · Awaiting payment collection
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c85eb25-2484-4248-9ebc-b3dbff0f97c4" />
+<p align="center"><img width="600" alt="Screenshot for shadowsons@outlook.com" src="https://github.com/user-attachments/assets/5c85eb25-2484-4248-9ebc-b3dbff0f97c4" /></p>
 
 - **Status:** Taken; payment has not been collected
 
@@ -40,19 +39,19 @@ A simple tracker for Apex Legends accounts and their current sale status.
 ## 🟢 Available — Ranked Unlocked
 ### `Shadow-son-Egoist@outlook.com` · Available
 
-<img width="1916" height="1043" alt="image" src="https://github.com/user-attachments/assets/5e27f9da-9b4f-49c3-b3a3-995864ab7a5b" />
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Egoist@outlook.com" src="https://github.com/user-attachments/assets/5e27f9da-9b4f-49c3-b3a3-995864ab7a5b" /></p>
 
 - **Status:** Available
 
 ### `Shadow-son-Shameless@outlook.com` · Available
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/33ca79ae-6fc3-49d6-95a5-8aeb9f4df41b" />
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Shameless@outlook.com" src="https://github.com/user-attachments/assets/33ca79ae-6fc3-49d6-95a5-8aeb9f4df41b" /></p>
 
 - **Status:** Available
 
 ### `Shadow-son-Greedy@outlook.com` · Available
 
-<img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/2536bb1d-ddc7-4a40-90e8-d10f8596ed84" />
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Greedy@outlook.com" src="https://github.com/user-attachments/assets/2536bb1d-ddc7-4a40-90e8-d10f8596ed84" /></p>
 
 - **Status:** Available
 
