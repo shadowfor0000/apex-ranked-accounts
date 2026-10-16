@@ -2,7 +2,7 @@
 
 A simple tracker for Apex Legends accounts and their current sale status.
 
-> This README displays account email addresses. Keep passwords, verification codes, recovery details, and other login information private.
+> This README displays account email addresses.
 
 ---
 
