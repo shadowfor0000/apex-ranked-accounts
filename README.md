@@ -34,7 +34,7 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 - **Status:** Taken; payment has not been collected
 
-### `Shadow-son-Egoist@outlook.com` · Available
+### `Shadow-son-Egoist@outlook.com` · Awaiting payment collection
 
 <p align="center"><img width="600" alt="Screenshot for Shadow-son-Egoist@outlook.com" src="https://github.com/user-attachments/assets/5e27f9da-9b4f-49c3-b3a3-995864ab7a5b" /></p>
 
