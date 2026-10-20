@@ -11,9 +11,9 @@ A simple tracker for Apex Legends accounts and their current sale status.
 | Status | Count |
 |---|---:|
 | ✅ Sold and paid | 1 |
-| 🕒 Taken — payment not collected | 1 |
-| 🟢 Available — ranked unlocked | 3 |
-| 🔒 Ranked not unlocked yet | 0 |
+| 🕒 Taken — payment not collected | 2 |
+| 🟢 Available — ranked unlocked | 2 |
+| 🔒 Ranked not unlocked yet | 1 |
 
 ---
 
@@ -34,14 +34,15 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 - **Status:** Taken; payment has not been collected
 
----
-
-## 🟢 Available — Ranked Unlocked
 ### `Shadow-son-Egoist@outlook.com` · Available
 
 <p align="center"><img width="600" alt="Screenshot for Shadow-son-Egoist@outlook.com" src="https://github.com/user-attachments/assets/5e27f9da-9b4f-49c3-b3a3-995864ab7a5b" /></p>
 
-- **Status:** Available
+- **Status:** Taken; payment has not been collected
+
+---
+
+## 🟢 Available — Ranked Unlocked
 
 ### `Shadow-son-Shameless@outlook.com` · Available
 
@@ -56,6 +57,12 @@ A simple tracker for Apex Legends accounts and their current sale status.
 - **Status:** Available
 
 ---
+## 🔒 Ranked Not Unlocked Yet
 
+### `Shadow-son-Arrogant@outlook.com` · Available
+
+- **Ranked:** Not unlocked
+
+---
 _Last updated: 2026-10-16_
 
