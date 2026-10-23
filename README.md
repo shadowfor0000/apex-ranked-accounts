@@ -71,5 +71,5 @@ A simple tracker for Apex Legends accounts and their current sale status.
 - **Ranked:** Not unlocked
 
 ---
-_Last updated: 2026-10-20_
+_Last updated: 2026-10-23_
 
