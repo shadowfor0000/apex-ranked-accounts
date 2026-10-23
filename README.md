@@ -28,7 +28,7 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 ## 🕒 Taken — Payment Not Collected
 
-## 📊 Account Payment
+### 📊 Account Payment
 
 | Mail | $ |
 |---|---:|
