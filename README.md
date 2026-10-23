@@ -28,6 +28,13 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 ## 🕒 Taken — Payment Not Collected
 
+## 📊 Account Payment
+
+| Mail | $ |
+|---|---:|
+| ✅🕒 shadowsons@outlook.com | 4.50 |
+| ✅🕒 Shadow-son-Egoist@outlook.com | 4.95 |
+
 ### `shadowsons@outlook.com` · Awaiting payment collection
 
 <p align="center"><img width="600" alt="Screenshot for shadowsons@outlook.com" src="https://github.com/user-attachments/assets/5c85eb25-2484-4248-9ebc-b3dbff0f97c4" /></p>
