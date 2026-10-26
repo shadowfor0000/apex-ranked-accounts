@@ -33,7 +33,7 @@ A simple tracker for Apex Legends accounts and their current sale status.
 | Mail | $ |
 |---|---:|
 | ✅🕒 shadowsons@outlook.com | 4.50 |
-| ✅🕒 Shadow-son-Egoist@outlook.com | 4.95 |
+| ✅🕒 Shadow-son-Shameless@outlook.com | 4.95 |
 
 ### `shadowsons@outlook.com` · Awaiting payment collection
 
@@ -41,21 +41,21 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 - **Status:** Taken; payment has not been collected
 
-### `Shadow-son-Egoist@outlook.com` · Awaiting payment collection
+### `Shadow-son-Shameless@outlook.com` · Awaiting payment collection
 
-<p align="center"><img width="600" alt="Screenshot for Shadow-son-Egoist@outlook.com" src="https://github.com/user-attachments/assets/5e27f9da-9b4f-49c3-b3a3-995864ab7a5b" /></p>
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Shameless@outlook.com" src="https://github.com/user-attachments/assets/33ca79ae-6fc3-49d6-95a5-8aeb9f4df41b" /></p>
 
-- **Status:** Taken; payment has not been collected
+- **Status:** payment has not been collected
 
 ---
 
 ## 🟢 Available — Ranked Unlocked
 
-### `Shadow-son-Shameless@outlook.com` · Available
+### `Shadow-son-Egoist@outlook.com` · Available
 
-<p align="center"><img width="600" alt="Screenshot for Shadow-son-Shameless@outlook.com" src="https://github.com/user-attachments/assets/33ca79ae-6fc3-49d6-95a5-8aeb9f4df41b" /></p>
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Egoist@outlook.com" src="https://github.com/user-attachments/assets/5e27f9da-9b4f-49c3-b3a3-995864ab7a5b" /></p>
 
-- **Status:** Available
+- **Status:** Taken; Available
 
 ### `Shadow-son-Greedy@outlook.com` · Available
 
@@ -71,5 +71,5 @@ A simple tracker for Apex Legends accounts and their current sale status.
 - **Ranked:** Not unlocked
 
 ---
-_Last updated: 2026-10-23_
+_Last updated: 2026-10-26_
 
