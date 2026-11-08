@@ -11,9 +11,9 @@ A simple tracker for Apex Legends accounts and their current sale status.
 | Status | Count |
 |---|---:|
 | ✅ Sold and paid | 1 |
-| 🕒 Taken — payment not collected | 2 |
+| 🕒 Taken — payment not collected | 3 |
 | 🟢 Available — ranked unlocked | 2 |
-| 🔒 Ranked not unlocked yet | 1 |
+| 🔒 Ranked not unlocked yet | 0 |
 
 ---
 
@@ -47,6 +47,11 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 - **Status:** payment has not been collected
 
+### `Shadow-son-Greedy@outlook.com` · Awaiting payment collection
+
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Greedy@outlook.com" src="https://github.com/user-attachments/assets/2536bb1d-ddc7-4a40-90e8-d10f8596ed84" /></p>
+
+- **Status:** payment has not been collected
 ---
 
 ## 🟢 Available — Ranked Unlocked
@@ -57,19 +62,16 @@ A simple tracker for Apex Legends accounts and their current sale status.
 
 - **Status:** Taken; Available
 
-### `Shadow-son-Greedy@outlook.com` · Available
+### `Shadow-son-Arrogant@outlook.com` · Available
 
-<p align="center"><img width="600" alt="Screenshot for Shadow-son-Greedy@outlook.com" src="https://github.com/user-attachments/assets/2536bb1d-ddc7-4a40-90e8-d10f8596ed84" /></p>
+<p align="center"><img width="600" alt="Screenshot for Shadow-son-Greedy@outlook.com" src="https://github.com/user-attachments/assets/08eac00f-b754-451e-90a4-565eed783d3a" /></p>
 
 - **Status:** Available
-
 ---
 ## 🔒 Ranked Not Unlocked Yet
-
-### `Shadow-son-Arrogant@outlook.com` · Available
 
 - **Ranked:** Not unlocked
 
 ---
-_Last updated: 2026-10-26_
+_Last updated: 2026-11-8_
 
