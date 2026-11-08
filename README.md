@@ -34,6 +34,7 @@ A simple tracker for Apex Legends accounts and their current sale status.
 |---|---:|
 | ✅🕒 shadowsons@outlook.com | 4.50 |
 | ✅🕒 Shadow-son-Shameless@outlook.com | 4.95 |
+| ✅🕒 Shadow-son-Greedy@outlook.com | 4.50 |
 
 ### `shadowsons@outlook.com` · Awaiting payment collection
 
